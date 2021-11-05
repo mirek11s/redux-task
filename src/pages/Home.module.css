@@ -20,9 +20,11 @@
     padding: 0.0rem 0.0rem;
   }
   
-  .user h1 {
+  .user h2 {
     background-color: lightblue;
     border-radius: 0.25rem;
+    margin-top: 0.0rem;
+    margin-bottom: 0.9rem;
   }
   
   .user h4 {

@@ -32,7 +32,7 @@ const Home = () => {
             onDoubleClick={() => history.push(`/editUser/${user.id}`)}
           >
             <header>
-              <h3>{user.name}</h3>
+              <h2>{user.name}</h2>
             </header>
             <h4>{user.email}</h4>
             <h4>{user.address["city"]}</h4>
